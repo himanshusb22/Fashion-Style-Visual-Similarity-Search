@@ -145,4 +145,3 @@ for _ in range(10):
         plt.title(f'Similar Product #{i}')
         plt.axis('off')
 
-"""give reason as to why its similar based on observation"""
